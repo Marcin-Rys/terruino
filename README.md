@@ -2,8 +2,8 @@
 ESP8266 based terrarium/aquarium controller with TFT screen and access by MQTT.
 
 Includes:
-*GUI TFT Screen for status of the connection, temperature, humidity warnings and the current readings.
-*Switching relays based on MIN/MAX temperature/humidity values for heating or cooling.
+-GUI TFT Screen for status of the connection, temperature, humidity warnings and the current readings.
+-Switching relays based on MIN/MAX temperature/humidity values for heating or cooling.
 
 WARNING!
 TERRUINO NOW IS WORKING ONLY IN OFFLINE MODE
